@@ -63,4 +63,4 @@ Git        15 mins      █▓░░░░░░░░░░░░░░░░�
 [mongodb]: https://www.mongodb.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[terminal]: 
+[terminal]: https://dev.to/kymiddleton/reference-guide-common-commands-for-terminal-6no
