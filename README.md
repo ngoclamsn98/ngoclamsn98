@@ -18,6 +18,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Nestjs" width="26px" src="https://github.com/ngoclamsn98/readme/blob/main/nestjs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -43,7 +44,7 @@ Git        15 mins      █▓░░░░░░░░░░░░░░░░�
 
 [<img align="left" alt="ngoclamsn98 | FaceBook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />][facebook]
 [<img align="left" alt="ngoclamsn98 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="ngoclamsn98 | Instagram" width="22px" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1621359448~hmac=f968e4f9601da025fbf494ec71a62562" />][instagram]
+[<img align="left" alt="ngoclamsn98 | Instagram" width="22px" src="https://github.com/ngoclamsn98/readme/blob/main/Instagram_logo_2016.svg.png" />][instagram]
 
 
 [facebook]: https://www.facebook.com/buingoclam.sn1998
